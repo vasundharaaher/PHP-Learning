@@ -60,4 +60,4 @@ To run these files locally:
 4. Start Apache server
 
 5. Open in browser:
-``` http://localhost/PHP-Learning/
+```bash http://localhost/PHP-Learning/
